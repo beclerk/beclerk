@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beclerk
-- 👀 I’m interested in mathematics.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on projects.
+- 👀 I’m in love with mathematics.
+- 🌱 I’m currently learning French.
 - 📫 Message me here.
 
 <!---
